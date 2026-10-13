@@ -1,0 +1,38 @@
+===== WEEK 3: ITERATIVE REFINEMENT =====
+
+--- INITIAL PROMPT ---
+Explain Machine Learning.
+
+--- REFINEMENT 1 ---
+
+Explain Machine Learning in simple English
+for a beginner.
+
+
+--- REFINEMENT 2 ---
+
+Explain Machine Learning to a beginner engineering student.
+ 
+Requirements:
+1. Give a simple definition.
+2. Explain how Machine Learning works.
+3. Give 3 real-world examples.
+4. Use simple English.
+5. Keep the explanation within 150 words.
+
+
+--- FINAL REFINED PROMPT ---
+
+You are a Machine Learning teacher.
+ 
+Explain Machine Learning to a first-year engineering student.
+ 
+Include:
+- Definition
+- How it works
+- Three real-world examples
+- Advantages
+- Short conclusion
+ 
+Use simple English and keep the answer under 150 words.
+
